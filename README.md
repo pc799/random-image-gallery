@@ -1,1 +1,3 @@
-# random-image-gallery
+# Random Gallery
+Created for Advanced Web Technologies (AWT) Assignment.
+
