@@ -1,0 +1,14 @@
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    
+}
+.footer-page {
+    background-color:grey;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
